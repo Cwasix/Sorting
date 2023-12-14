@@ -1,0 +1,15 @@
+C:\Users\исп-22\source\repos\Sorting\Sorting\bin\Debug\net6.0\Sorting.exe
+C:\Users\исп-22\source\repos\Sorting\Sorting\bin\Debug\net6.0\Sorting.deps.json
+C:\Users\исп-22\source\repos\Sorting\Sorting\bin\Debug\net6.0\Sorting.runtimeconfig.json
+C:\Users\исп-22\source\repos\Sorting\Sorting\bin\Debug\net6.0\Sorting.dll
+C:\Users\исп-22\source\repos\Sorting\Sorting\bin\Debug\net6.0\Sorting.pdb
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.csproj.AssemblyReference.cache
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.AssemblyInfo.cs
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.dll
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\refint\Sorting.dll
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.pdb
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\Sorting.genruntimeconfig.cache
+C:\Users\исп-22\source\repos\Sorting\Sorting\obj\Debug\net6.0\ref\Sorting.dll
